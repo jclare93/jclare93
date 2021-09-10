@@ -1,7 +1,7 @@
-👋 Hi, I’m @jclare93 -- John Clare
-👀 I’m interested in ...
-🌱 I’m currently learning ... Javascript, HTML, and CSS.
-💞️ I’m looking to collaborate on ... interesting web projects.
+👋 Hi, I’m @jclare93 -- John Clare a junior web developer.
+👀 I’m interested in developing innovative web applications
+🌱 I’m currently learning Javascript, HTML, React, and CSS.
+💞️ I’m looking to collaborate on new interesting web projects and open source development.
 📫 How to reach me ... johnclare957@gmail.com
 
 <!---
