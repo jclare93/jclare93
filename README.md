@@ -1,8 +1,8 @@
-👋 Hi, I’m @jclare93 -- John Clare a junior web developer.
+👋 Hi, I’m @jclare93 -- John Clare, web developer.
 
-👀 I’m interested in developing innovative web applications
+👀 I’m interested in developing innovative web applications and collab-ing on some oss. 
 
-🌱 I’m currently learning Javascript, HTML, React, and CSS.
+🌱 I know Javascript, HTML, React, HTML, PostGres, Node, and CSS.
 
 💞️ I’m looking to collaborate on new interesting web projects and open source development.
 
