@@ -2,7 +2,7 @@
 
 👀 I’m interested in developing innovative web applications and collab-ing on some oss. 
 
-🌱 I know Javascript, HTML, React, HTML, PostGres, Node, and CSS.
+🌱 I know Javascript, HTML, React, HTML, Postgres, Node, and CSS.
 
 💞️ I’m looking to collaborate on new interesting web projects and open source development.
 
